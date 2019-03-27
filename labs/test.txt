@@ -1,1 +1,7 @@
+Isophonics Beatles dataset
 
+The dataset used for the reference annotations in this analysis was downloaded from the Isophonics website.
+
+http://www.isophonics.net/content/reference-annotations-beatles
+
+Only the .lab files for The Beatles under the chordlab directory were used. 
